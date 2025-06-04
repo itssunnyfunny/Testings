@@ -11,7 +11,9 @@
   "description": "",
   "dependencies": {
     "@types/express": "^5.0.2",
+    "@types/supertest": "^6.0.3",
     "express": "^5.1.0",
+    "supertest": "^7.1.1",
     "zod": "^3.25.51"
   },
   "devDependencies": {
