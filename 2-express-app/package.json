@@ -1,0 +1,22 @@
+{
+  "name": "2-express-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/express": "^5.0.2",
+    "@types/supertest": "^6.0.3",
+    "express": "^5.1.0",
+    "supertest": "^7.1.1"
+  },
+  "devDependencies": {
+    "@jest/globals": "^30.0.0-beta.3",
+    "ts-jest": "^29.3.4"
+  }
+}
