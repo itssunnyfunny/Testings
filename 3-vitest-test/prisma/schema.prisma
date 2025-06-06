@@ -19,4 +19,10 @@ model Sum {
    a Int
    b Int
    answer Int
+   type returnType
+}
+
+enum returnType {
+  sum
+  multiply
 }
